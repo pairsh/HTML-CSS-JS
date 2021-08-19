@@ -10,8 +10,3 @@ a:hover{
 a:active{
     color: chartreuse;
 }
-body{
-    background-image: url("D:/何松霖/PS文件/其他/比赛.png");
-    background-size:cover;
-    background-color: currentColor;
-}
